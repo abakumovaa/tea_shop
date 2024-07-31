@@ -1,4 +1,4 @@
-Адаптивная верстка сайта магазина чая на HTML, CSS
+Адаптивная верстка сайта магазина чая на HTML, CSS и JS
 
 ![05-big](https://github.com/user-attachments/assets/e91c8b78-f1e9-4e50-bd4a-aa1aa34fefa7)
 
